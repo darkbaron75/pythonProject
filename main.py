@@ -4,7 +4,7 @@ if colour == "red":
 else:
     print(colour + " is a nice colour but I prefer red myself")
 
-drink = input("Do you prefer cola or lemonade? ")
+drink = input("Do you prefer fanta or lemonade? ")
 if drink == "cola":
     print("i like cola aswell")
 else:
